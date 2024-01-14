@@ -1,5 +1,6 @@
 # randomstn
 [![python](https://img.shields.io/badge/Python-3.11.1-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+
 우토 컨텐츠 "랜덤 지하철 여행"에 사용된 봇 코드
 
 # 사용된 라이브러리 버전
