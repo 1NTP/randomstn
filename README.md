@@ -11,4 +11,5 @@
 - 2차 배포 금지
 - 사용은 자유지만 수익창출이 되는 경우 따로 문의부탁함
 # author
-- @1ntp: 똥싼놈 (aka. uwuaden, 에이든) 연락: 디스코드 1ntp
+- [@uwuaden](https://www.github.com/uwuaden):
+  - 똥싼놈 (aka. 에이든) 연락: 디스코드 1ntp
